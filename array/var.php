@@ -1,0 +1,1 @@
+var binatang = ['sella','candra','pika','naldo','eva','suminar'];
